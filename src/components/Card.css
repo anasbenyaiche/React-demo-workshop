@@ -1,0 +1,9 @@
+.card {
+  border: 2px soild gold;
+  width: 20vw;
+  display: flex;
+  justify-content: center;
+}
+.card img {
+  height: 250px;
+}
